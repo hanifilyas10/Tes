@@ -122,9 +122,7 @@ export default function AdminWork() {
             <label>Submit Data</label>
         </button>
         </Card>
-        
         <Card title="List of Work" style="mt-5">
-          
         </Card>
       </>
     );
